@@ -47,7 +47,7 @@ Request Body:
 
 ```json
 {
-    "name": "Rahul",
+    "name": "Palak",
     "course": "CSE"
 }
 ```
